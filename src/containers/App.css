@@ -12,3 +12,9 @@ h1 {
   font-weight: 200;
   color: #0ccac4;
 }
+
+.container {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
